@@ -1,0 +1,37 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中文博客 on farley | 刘小春</title>
+    <link>https://farleyliu.github.io/</link>
+    <description>Recent content in 中文博客 on farley | 刘小春</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://farleyliu.github.io/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>本应该5年前的开始</title>
+      <link>https://farleyliu.github.io/blog/startup/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://farleyliu.github.io/blog/startup/</guid>
+      <description>
+        &lt;p&gt;有些人就是那样，在很早的时候就能领悟，总结出一个合理的路径来提升自己，形成一个螺旋上升。很可惜，自己在另外那一波人里。&lt;/p&gt;
+
+&lt;p&gt;很早(至少在5年前)就读了刘未鹏的&lt;a href=&#34;http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/&#34;&gt;为什么你应该（从现在开始就）写博客&lt;/a&gt;一文，读完就有很大的冲动去做笔记记录平时的一些思考，然后再整理成博客。然而，5年后的今天，依然没有自己的独立博客，书写能力依然没有提高。 看到有道笔记本里躺着长长的按时间整理的日志，那不是笔记文章，那只是流水账。 没有意义，至少对除了我以外的人没有意义。今天在github上看到一个&lt;a href=&#34;https://github.com/timqian/chinese-independent-blogs&#34;&gt;博客列表&lt;/a&gt;，其中一个独立博客的&lt;a href=&#34;https://yuguo.us/&#34;&gt;作者&lt;/a&gt;，和我有很多相似经历。看到他10年前的&lt;a href=&#34;https://yuguo.us/weblog/farewell-my-college/&#34;&gt;一篇博客&lt;/a&gt;， 给了我深深的震撼：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;顺着这些词汇，西安，郭杜，樱花广场, 回忆起大学的时光。&lt;/li&gt;
+&lt;li&gt;作者的文笔有了巨大的进步。&lt;/li&gt;
+&lt;li&gt;作者居然从开发成功转型设计。&lt;/li&gt;
+&lt;li&gt;作者非常优秀。&lt;/li&gt;
+&lt;li&gt;我也本可以这样。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;我知道是时候出发了。 如果你想种一棵树，最好的时间要么是10年前，要么是现在。&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中文博客 on farley | 刘小春</title>
+    <link>https://farleyliu.github.io/blog/</link>
+    <description>Recent content in 中文博客 on farley | 刘小春</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://farleyliu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>本应该5年前的开始</title>
+      <link>https://farleyliu.github.io/blog/startup/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://farleyliu.github.io/blog/startup/</guid>
+      <description>有些人就是那样，在很早的时候就能领悟，总结出一个合理的路径来提升自己，形成一个螺旋上升。很可惜，自己在另外那一波人里。 很早(至少在5年前)就</description>
+    </item>
+    
+  </channel>
+</rss>
